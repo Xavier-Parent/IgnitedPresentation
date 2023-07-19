@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 46675984979596312}
-  - component: {fileID: 5116032169517425513}
+  - component: {fileID: -3221738449451358965}
   m_Layer: 0
   m_Name: PatchGrassTall05
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!205 &5116032169517425513
+--- !u!205 &-3221738449451358965
 LODGroup:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -40,16 +40,18 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859628028721909410}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.45818782, y: 0.44526523, z: 0.29147935}
-  m_Size: 4.794256
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 1
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.20281956
+  - screenRelativeHeight: 0.09168959
     fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 4584315111765048276}
+    renderers: []
+  - screenRelativeHeight: 0.09168959
+    fadeTransitionWidth: 0
+    renderers: []
   m_Enabled: 1
 --- !u!1 &7076444586852820202
 GameObject:
